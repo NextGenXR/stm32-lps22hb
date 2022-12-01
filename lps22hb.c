@@ -20,6 +20,8 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "lps22hb.h"
+#include <psensor.h>
+#include <tsensor.h>
 
 /** @addtogroup BSP
   * @{
