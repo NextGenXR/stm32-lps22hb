@@ -26,8 +26,8 @@ extern "C" {
 #endif
   
 /* Includes ------------------------------------------------------------------*/
-#include "../Common/psensor.h"
-#include "../Common/tsensor.h"  
+#include "stm32l475e_iot01_psensor.h"
+#include "stm32l475e_iot01_tsensor.h"
 
 /** @addtogroup BSP
   * @{
